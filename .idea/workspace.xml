@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d883cb19-7868-4064-bd12-fbbd552d9532" name="Changes" comment="lecture -1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///snap/go/current" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="kodekloud" />
+                    <option name="lastUsedInstant" value="1736364993" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1736364992" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lWa8Yl9O6FFpFscumtgnfcTwSl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build 01-sample.go.executor": "Run",
+    "Go Build.go build 02-format-specifiers-1.go.executor": "Run",
+    "Go Build.go build 02-printing-new-lines-1.go.executor": "Run",
+    "Go Build.go build 02-printing-new-lines-2.go.executor": "Run",
+    "Go Build.go build 02-printing-variables-1.go.executor": "Run",
+    "Go Build.go build 02-printing-variables-2.go.executor": "Run",
+    "Go Build.go build 02-printing-variables-and-strings.go.executor": "Run",
+    "Go Build.go build 02-variables-1.go.executor": "Run",
+    "Go Build.go build 03-variables-shorthand-way-1.go.executor": "Run",
+    "Go Build.go build 03-variables-shorthand-way-2.go.executor": "Run",
+    "Go Build.go build 04-global-variables-1.go.executor": "Run",
+    "Go Build.go build 04-local-variables-1.go.executor": "Run",
+    "Go Build.go build 05-multiple-input-1.go.executor": "Run",
+    "Go Build.go build 05-multiple-input-with-return-value-2.go.executor": "Run",
+    "Go Build.go build 05-single-input-1.go.executor": "Run",
+    "Go Build.go build 60_declaring_slice.go.executor": "Run",
+    "Go Build.go build 61_declaring_slice-2.go.executor": "Run",
+    "Go Build.go build 62_declaring_slice_by_make_function-1.go.executor": "Run",
+    "Go Build.go build 63_modification_array_and_slice.go.executor": "Run",
+    "Go Build.go build 64_appending_to_a_slice.go.executor": "Run",
+    "Go Build.go build 65_appending_two_slices.go.executor": "Run",
+    "Go Build.go build 66_deleting_from_a_slice.go.executor": "Run",
+    "Go Build.go build 67_coping_from_a_slice.go.executor": "Run",
+    "Go Build.go build 68_looping_through_a_slice-1.go.executor": "Run",
+    "Go Build.go build 69_looping_through_a_slice-2.go.executor": "Run",
+    "Go Build.go build 70_declaring_and_initializing_a_map_1.go.executor": "Run",
+    "Go Build.go build 70_declaring_and_initilizing_a_map.go.executor": "Run",
+    "Go Build.go build 71_declaring_and_initializing_a_map_by_make-2.go.executor": "Run",
+    "Go Build.go build 71_declaring_and_initializing_a_map_by_make.go.executor": "Run",
+    "Go Build.go build 73_accessing_a_map.go.executor": "Run",
+    "Go Build.go build 74_getting_keys.go.executor": "Run",
+    "Go Build.go build 75_adding_key-value_pair.go.executor": "Run",
+    "Go Build.go build 76_update_the_key_value_pair.go.executor": "Run",
+    "Go Build.go build 77_deleting_key_value_pair.go.executor": "Run",
+    "Go Build.go build 78_loop_over_a_map.go.executor": "Run",
+    "Go Build.go build 79_truncate_a_map_1.go.executor": "Run",
+    "Go Build.go build 79_truncate_a_map_2.go.executor": "Run",
+    "Go Build.go build 80_functions_1.go.executor": "Run",
+    "Go Build.go build 81_returing_multiple_values-1.go.executor": "Run",
+    "Go Build.go build 81_returing_multiple_values-2.go.executor": "Run",
+    "Go Build.go build 81_returing_multiple_values.go.executor": "Run",
+    "Go Build.go build 82_variadic_functions-2.go.executor": "Run",
+    "Go Build.go build 82_variadic_functions.go.executor": "Run",
+    "Go Build.go build 83_black_identifier_1.go.executor": "Run",
+    "Go Build.go build 83_blank_identifier_2.go.executor": "Run",
+    "Go Build.go build 84_recursive_functions.go.executor": "Run",
+    "Go Build.go build 85_function_inside_function-2.go.executor": "Run",
+    "Go Build.go build 85_function_inside_function.go.executor": "Run",
+    "Go Build.go build 86_high_order_function-2.go.executor": "Debug",
+    "Go Build.go build 86_high_order_function.go.executor": "Run",
+    "Go Build.go build 87_defer_statement.go.executor": "Run",
+    "Go Build.go build 88_address_and_dereference.go.executor": "Run",
+    "Go Build.go build 89_initiakizing_a_pointer.go.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "git-widget-placeholder": "nana",
+    "go.import.settings.migrated": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/nirr/github/alam-nazmul-kkloud-GO/go_with_nana",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/using_functions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build 80_functions_1.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="alam-nazmul-kkloud-GO" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="alam-nazmul-kkloud-GO" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="alam-nazmul-kkloud-GO" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 80_functions_1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="alam-nazmul-kkloud-GO" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/using_functions/80_functions_1.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 86_high_order_function-2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="alam-nazmul-kkloud-GO" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/using_functions/86_high_order_function-2.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="alam-nazmul-kkloud-GO" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d883cb19-7868-4064-bd12-fbbd552d9532" name="Changes" comment="" />
+      <created>1725298128498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725298128498</updated>
+      <workItem from="1725298129453" duration="83000" />
+      <workItem from="1725298293560" duration="49000" />
+      <workItem from="1725298417549" duration="6954000" />
+      <workItem from="1725387048248" duration="106000" />
+      <workItem from="1725581216351" duration="26000" />
+      <workItem from="1725741160668" duration="27000" />
+      <workItem from="1725781334638" duration="715000" />
+      <workItem from="1725993230575" duration="4886000" />
+      <workItem from="1726115842746" duration="270000" />
+      <workItem from="1726514801887" duration="909000" />
+      <workItem from="1726604991584" duration="4849000" />
+      <workItem from="1726689614722" duration="5938000" />
+      <workItem from="1726773471064" duration="4191000" />
+      <workItem from="1726778497722" duration="577000" />
+      <workItem from="1726854734199" duration="915000" />
+      <workItem from="1726864807210" duration="2215000" />
+      <workItem from="1726948074996" duration="45000" />
+      <workItem from="1733093210627" duration="29000" />
+      <workItem from="1733093250716" duration="240000" />
+      <workItem from="1733094167253" duration="15000" />
+      <workItem from="1736363791412" duration="4942000" />
+      <workItem from="1736435925126" duration="17000" />
+      <workItem from="1736454658563" duration="4742000" />
+      <workItem from="1736912711690" duration="18000" />
+      <workItem from="1741810429845" duration="310000" />
+      <workItem from="1741810795321" duration="6835000" />
+      <workItem from="1741888300689" duration="26000" />
+    </task>
+    <task id="LOCAL-00001" summary="Print function with new line">
+      <option name="closed" value="true" />
+      <created>1725300646401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725300646401</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Print function with variables">
+      <option name="closed" value="true" />
+      <created>1725300810482</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725300810482</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Print function with variables (integers)">
+      <option name="closed" value="true" />
+      <created>1725300854060</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725300854060</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Print function with tow types of variables">
+      <option name="closed" value="true" />
+      <created>1725300883898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725300883898</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Global variable Vs local variable">
+      <option name="closed" value="true" />
+      <created>1725303487732</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725303487732</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Inner and outer blocks">
+      <option name="closed" value="true" />
+      <created>1725303515755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725303515755</updated>
+    </task>
+    <task id="LOCAL-00007" summary="variable call by short way">
+      <option name="closed" value="true" />
+      <created>1725303544954</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725303544954</updated>
+    </task>
+    <task id="LOCAL-00008" summary="variable call by short way">
+      <option name="closed" value="true" />
+      <created>1725303564974</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725303564974</updated>
+    </task>
+    <task id="LOCAL-00009" summary="variable call by short way">
+      <option name="closed" value="true" />
+      <created>1725303577622</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725303577622</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Default zero values">
+      <option name="closed" value="true" />
+      <created>1725304588170</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725304588170</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Single input">
+      <option name="closed" value="true" />
+      <created>1725305397660</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725305397660</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Multiple input">
+      <option name="closed" value="true" />
+      <created>1725305408034</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725305408034</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Declaring Slice">
+      <option name="closed" value="true" />
+      <created>1725998610239</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725998610239</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Declaring Slice with various positions">
+      <option name="closed" value="true" />
+      <created>1725998626322</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725998626322</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Declaring make function">
+      <option name="closed" value="true" />
+      <created>1725998644717</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725998644717</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Modification array">
+      <option name="closed" value="true" />
+      <created>1725998683803</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725998683803</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Appending on slice">
+      <option name="closed" value="true" />
+      <created>1725998735499</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725998735499</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add two slices">
+      <option name="closed" value="true" />
+      <created>1725998747250</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725998747250</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Deleting from a slice">
+      <option name="closed" value="true" />
+      <created>1725998760292</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725998760292</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Coping from a slice">
+      <option name="closed" value="true" />
+      <created>1725998769460</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1725998769460</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Looping through a slice">
+      <option name="closed" value="true" />
+      <created>1725998801602</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1725998801602</updated>
+    </task>
+    <task id="LOCAL-00022" summary="clear a map by using MAKE">
+      <option name="closed" value="true" />
+      <created>1726608166167</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726608166167</updated>
+    </task>
+    <task id="LOCAL-00023" summary="clear a map by using loop">
+      <option name="closed" value="true" />
+      <created>1726608177241</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1726608177241</updated>
+    </task>
+    <task id="LOCAL-00024" summary="loop on a map">
+      <option name="closed" value="true" />
+      <created>1726608246031</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1726608246031</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Remove the key value pair from MAP">
+      <option name="closed" value="true" />
+      <created>1726608293434</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1726608293434</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Updating the key value pair from MAP">
+      <option name="closed" value="true" />
+      <created>1726608303620</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1726608303620</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Adding the key value pair from MAP">
+      <option name="closed" value="true" />
+      <created>1726608317749</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1726608317749</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Getting the key's value from MAP">
+      <option name="closed" value="true" />
+      <created>1726608358215</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1726608358215</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Getting the key's value from MAP">
+      <option name="closed" value="true" />
+      <created>1726608443357</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1726608443357</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Length of map">
+      <option name="closed" value="true" />
+      <created>1726608465414</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1726608465414</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Length of map">
+      <option name="closed" value="true" />
+      <created>1726608684715</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726608684715</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Use of make function on map">
+      <option name="closed" value="true" />
+      <created>1726608727506</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726608727506</updated>
+    </task>
+    <task id="LOCAL-00033" summary="declaring and initializing map">
+      <option name="closed" value="true" />
+      <created>1726608767764</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1726608767764</updated>
+    </task>
+    <task id="LOCAL-00034" summary="upload">
+      <option name="closed" value="true" />
+      <created>1736364964650</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1736364964650</updated>
+    </task>
+    <task id="LOCAL-00035" summary="sample print">
+      <option name="closed" value="true" />
+      <created>1736368642667</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1736368642667</updated>
+    </task>
+    <task id="LOCAL-00036" summary="format specifiers">
+      <option name="closed" value="true" />
+      <created>1736368669836</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1736368669836</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Print new lines">
+      <option name="closed" value="true" />
+      <created>1736368686733</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1736368686733</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Print variables">
+      <option name="closed" value="true" />
+      <created>1736368707449</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1736368707449</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Print variables and string">
+      <option name="closed" value="true" />
+      <created>1736368717729</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1736368717729</updated>
+    </task>
+    <task id="LOCAL-00040" summary="sample variables">
+      <option name="closed" value="true" />
+      <created>1736368730254</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1736368730254</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Short variables">
+      <option name="closed" value="true" />
+      <created>1736368744534</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1736368744534</updated>
+    </task>
+    <task id="LOCAL-00042" summary="simple print">
+      <option name="closed" value="true" />
+      <created>1741818107580</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1741818107580</updated>
+    </task>
+    <task id="LOCAL-00043" summary="How to call the variables">
+      <option name="closed" value="true" />
+      <created>1741818124817</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1741818124817</updated>
+    </task>
+    <task id="LOCAL-00044" summary="How to call the multiple variables">
+      <option name="closed" value="true" />
+      <created>1741818138657</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1741818138657</updated>
+    </task>
+    <task id="LOCAL-00045" summary="How formatted the output">
+      <option name="closed" value="true" />
+      <created>1741818176684</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1741818176684</updated>
+    </task>
+    <task id="LOCAL-00046" summary="How to find the data type">
+      <option name="closed" value="true" />
+      <created>1741818204405</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1741818204405</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Introducing user input">
+      <option name="closed" value="true" />
+      <created>1741818225751</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1741818225751</updated>
+    </task>
+    <task id="LOCAL-00048" summary="simple logic-1">
+      <option name="closed" value="true" />
+      <created>1741818240271</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1741818240271</updated>
+    </task>
+    <task id="LOCAL-00049" summary="lecture -1">
+      <option name="closed" value="true" />
+      <created>1741818265986</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1741818265986</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clear a map by using loop" />
+    <MESSAGE value="loop on a map" />
+    <MESSAGE value="Remove the key value pair from MAP" />
+    <MESSAGE value="Updating the key value pair from MAP" />
+    <MESSAGE value="Adding the key value pair from MAP" />
+    <MESSAGE value="Getting the key's value from MAP" />
+    <MESSAGE value="Length of map" />
+    <MESSAGE value="Use of make function on map" />
+    <MESSAGE value="declaring and initializing map" />
+    <MESSAGE value="upload" />
+    <MESSAGE value="sample print" />
+    <MESSAGE value="format specifiers" />
+    <MESSAGE value="Print new lines" />
+    <MESSAGE value="Print variables" />
+    <MESSAGE value="Print variables and string" />
+    <MESSAGE value="sample variables" />
+    <MESSAGE value="Short variables" />
+    <MESSAGE value="simple print" />
+    <MESSAGE value="How to call the variables" />
+    <MESSAGE value="How to call the multiple variables" />
+    <MESSAGE value="How formatted the output" />
+    <MESSAGE value="How to find the data type" />
+    <MESSAGE value="Introducing user input" />
+    <MESSAGE value="simple logic-1" />
+    <MESSAGE value="lecture -1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture -1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
